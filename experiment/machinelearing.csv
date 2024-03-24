@@ -1,0 +1,6 @@
+MCQ,choices,Correct
+What is machine learning?,a:A field of study in artificial intelligence concerned with the development and study of statistical algorithms | b:A field of study in robotics concerned with building physical machines | c:A field of study in biology concerned with animal behavior | d:A field of study in chemistry concerned with chemical reactions,a
+Who coined the term 'machine learning'?,a:Donald Hebb | b:Tom M. Mitchell | c:Arthur Samuel | d:Walter Pitts,c
+What is the main objective of modern-day machine learning?,a:To classify data based on models developed | b:To build physical machines | c:To study animal behavior | d:To study chemical reactions,a
+What is the mathematical foundation of machine learning?,a:Data mining | b:Mathematical optimization | c:Exploratory data analysis | d:Supervised learning,b
+What is PAC learning?,a:A framework for describing machine learning | b:A framework for studying animal behavior | c:A framework for studying chemical reactions | d:A framework for studying computer vision,a
